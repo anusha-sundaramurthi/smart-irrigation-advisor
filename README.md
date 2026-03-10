@@ -91,13 +91,13 @@ smart-irrigation-iot/
 | Moisture History | Line graph of moisture readings over time |
 
 ### Screen 1 — Crop Selection
-![Crop Selection Screen](images/screen1.png)
+![Crop Selection Screen](images/screen1.jpeg)
 
 ### Screen 2 — Dashboard
-![Dashboard Screen](images/screen2.png)
+![Dashboard Screen](images/screen2.jpeg)
 
 ### Screen 3 — Moisture History
-![Moisture History Screen](images/screen3.png)
+![Moisture History Screen](images/screen3.jpeg)
 
 ---
 
